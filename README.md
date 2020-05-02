@@ -1,5 +1,7 @@
 # vue-i18-app
 
+[Vue i18n Tutorial – How to Build Multi-Lingual Vue.js App](https://www.positronx.io/?p=9778&preview=true)
+
 ## Project setup
 ```
 npm install
