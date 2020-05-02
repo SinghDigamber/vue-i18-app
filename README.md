@@ -1,6 +1,6 @@
 # vue-i18-app
 
-[Vue i18n Tutorial – How to Build Multi-Lingual Vue.js App](https://www.positronx.io/?p=9778&preview=true)
+[Vue i18n Tutorial – How to Build Multi-Lingual Vue.js App](https://www.positronx.io/vue-i18n-tutorial-how-to-build-multi-lingual-vue-js-app/)
 
 ## Project setup
 ```
